@@ -15,7 +15,7 @@ do
  echo "H: ${H} T: ${T} S: ${S}"
 
  name="${H[0]}-${S[0]}-${T[0]}"
- SMILE="H-${H[1]}-${S[1]}-${T[0]}-H"
+ SMILE="H-${H[1]}-${S[1]}-${T[1]}-H"
 
  echo "${SMILE}" > "mono-${name}.smi"
 
