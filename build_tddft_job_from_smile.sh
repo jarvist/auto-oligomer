@@ -90,6 +90,6 @@ EOF
 
 pbsexec g03 ${name%.*}_b3lyp_tddft.com
 
-cp ${name%.*}* /work/jmf02/DA/ 
+cp ${name%.*}* /work/jmf02/DANDELION/ 
 EOW
 
