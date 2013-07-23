@@ -1,0 +1,23 @@
+#DONORS - all designed to concatenate nicely
+#Se C([Se]1)C(h)C(h)C1
+#BSe C1C2N[Se]NC2C(C(h)C(h)1)
+#SeSe C([Se]1)C(h)C2C1C(h)C([Se]2)
+TSe C(S1)C(h)C2C1C(h)C([Se]2)
+#Se-BSe-Se C([Se]1)C(h)C(h)C1-C1C2N[Se]NC2C(C(h)C(h)1)-C([Se]1)C(h)C(h)C1
+#Se-BT-Se C([Se]1)C(h)C(h)C1-C1C2NSNC2C(C(h)C(h)1)-C([Se]1)C(h)C(h)C1
+#DPPSe  C([Se]1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C([Se]1)C(h)C(h)C1
+
+#DPP  C1N(h)C(=O)C2C1C(=O)N(h)C2
+#TTPD C(S1)C(h)C(C12)C(OC(h)(h)(h))C(S1)C(C2OC(h)(h)(h))C(h)C1
+
+#C_PFO C(C(h)C1C2(h)(h))C(h)C(h)C1C1C(h)C(h)C(C(h)C12)
+#Si_PFO C(C(h)C1[Si]2(h)(h))C(h)C(h)C1C1C(h)C(h)C(C(h)C12)
+#C_IPFO C(C(h)C1C2(h)(h))C(h)C(h)C1C1C(h)C(C3(h)(h))C(C(h)C12)C1C(h)C(h)C(C(h)C13)
+#Si_IPFO C(C(h)C1[Si]2(h)(h))C(h)C(h)C1C1C(h)C([Si]3(h)(h))C(C(h)C12)C1C(h)C(h)C(C(h)C13)
+#Si_TPT C(C(h)C1[Si]2(h)(h))SC1C1C(h)C([Si]3(h)(h))C(C(h)C12)C1SC(C(h)C13)
+#C_TPT C(C(h)C1C2(h)(h))SC1C1C(h)C(C3(h)(h))C(C(h)C12)C1SC(C(h)C13)
+#DBT C(S1)C(h)C2C1C(h)C3C(C(h)2)SC(C(h)3)
+#TTB C(S1)C(h)C2C3C(h)C(h)SC3C4C(C12)SC(C(h)4)
+#DPP  C(S1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C(S1)C(h)C(h)C1
+#Carbazole C(C(h)C1N2(h))C(h)C(h)C1C1C(h)C(h)C(C(h)C12)
+
