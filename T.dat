@@ -1,2 +1,7 @@
 #TAILS - for emissive core of DANDELION
-rubrene c5(c3c(c1ccccc1c(c2ccccc2)c3c(c4ccccc4)c6ccccc56)c7ccccc7)c8ccccc8
+# From Wikipedia - probably won't work (missing explicit hydrogens)
+#http://en.wikipedia.org/wiki/Rubrene
+#rubrene c5(c3c(c1ccccc1c(c2ccccc2)c3c(c4ccccc4)c6ccccc56)c7ccccc7)c8ccccc8
+# It was late & I was tired, but I did this by hand. C98 and C99 to connect
+# extra ligands
+rubrenebyhand c1c(h)c(h)c(c(h)c(h)1)-c1c2c(h)c(h)c(h)c(h)c2c(c3c(h)c(h)c%98(h)c(h)c3(h))-c2c1c(c3c(h)c(h)c%99(h)c(h)c3(h))-c1c(h)c(h)c(h)c(h)c1c2c(c(h)c1h)c(h)c(h)c1
