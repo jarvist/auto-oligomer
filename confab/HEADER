@@ -1,0 +1,7 @@
+%Mem=8Gb
+%nproc=8
+#p opt b3lyp/6-31g* 
+
+Conformer search; some magic structure
+
+0 1
