@@ -21,4 +21,6 @@
 #DPP  C(S1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C(S1)C(h)C(h)C1
 #Carbazole C(C(h)C1N2(h))C(h)C(h)C1C1C(h)C(h)C(C(h)C12)
 
-IsoIndigo C(C(h)C1(h))C(h)C(C12)N(h)C(=O)C2-C(C12)C(=O)N(h)C1C(h)C(C(h)C(h)2)
+#IsoIndigo C(C(h)C1(h))C(h)C(C12)N(h)C(=O)C2-C(C12)C(=O)N(h)C1C(h)C(C(h)C(h)2)
+
+SilDT C(S1)C(h)C(C12)Si(h)(h)C(C23)C(h)C(C4C(h)3)C(S1)C(Si(h)(h)4)C(h)C1

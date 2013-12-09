@@ -7,14 +7,16 @@
 #Se-BT-Se C([Se]1)C(h)C(h)C1-C1C2NSNC2C(C(h)C(h)1)-C([Se]1)C(h)C(h)C1
 #DPPSe  C([Se]1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C([Se]1)C(h)C(h)C1
 #T C(S1)C(h)C(h)C1
-#BT C1C2NSNC2C(C(h)C(h)1)
+BT   C1C2NSNC2C(C(h)C(h)1)
+2FBT C1C2NSNC2C(C(F)C(F)1)
 #TT C(S1)C(h)C2C1C(h)C(S2)
-#T-BT-T C(S1)C(h)C(h)C1-C1C2NSNC2C(C(h)C(h)1)-C(S1)C(h)C(h)C1
+T-BT-T   C(S1)C(h)C(h)C1-C1C2NSNC2C(C(h)C(h)1)-C(S1)C(h)C(h)C1
+T-2FBT-T C(S1)C(h)C(h)C1-C1C2NSNC2C(C(F)C(F)1)-C(S1)C(h)C(h)C1
 #DPP  C(S1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C(S1)C(h)C(h)C1
 
 #BT C1C(h)C(h)C2C(=O)NC(=O)C2C1(h)-C=C-C1C2NSNC2C(C(h)C(h)1)-C=C-C1C(h)C(h)C2C(=O)NC(=O)C2C1(h)
 
-Ethylene C(h)C(h)
+#Ethylene C(h)C(h)
 
 #T-BT-T C(S1)C(h)C(h)C1-C1C2NSNC2C(C(h)C(h)1)-C(S1)C(h)C(h)C1
 #DPP  C1N(h)C(=O)C2C1C(=O)N(h)C2
