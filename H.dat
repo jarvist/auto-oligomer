@@ -2,5 +2,5 @@
 # https://en.wikipedia.org/wiki/Porphine
 #porphin c1c/2[nH]c(c1)/cc/3\nc(/cc/4\[nH]/c(c\c5n/c(c2)/C=C5)/cc4)C=C3
 # Hugo's Porph - PtTPBP
-PtTPBP c1c(h)c(h)c(c(h)c1(h))c%99c3c4c(h)c(h)c(h)c(h)c4c(N3%98)-c(c1c(h)c(h)c(h)c(h)c1(h))c3c4c(h)c(h)c(h)c(h)c4c(N3%97)-c(c1c(h)c(h)c(h)c(h)c1(h))c3c4c(h)c(h)c(h)c(h)c4c(N3%96)-c(c3c4c(h)c(h)c(h)c(h)c4c(N3[Pt]%98%97%96%95)%99)c1c(h)c(h)c(c(h)c1(h))
+PtTPBP c1c(h)c(h)c(c(h)c1(h))c%89c3c4c(h)c(h)c(h)c(h)c4c(N3%88)-c(c1c(h)c(h)c(h)c(h)c1(h))c3c4c(h)c(h)c(h)c(h)c4c(N3%87)-c(c1c(h)c(h)c(h)c(h)c1(h))c3c4c(h)c(h)c(h)c(h)c4c(N3%86)-c(c3c4c(h)c(h)c(h)c(h)c4c(N3[Pt]%86%87%88)%89)c1c(h)c(h)c(c(h)c1(h))
 

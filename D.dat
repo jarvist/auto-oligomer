@@ -2,7 +2,7 @@
 #Se C([Se]1)C(h)C(h)C1
 #BSe C1C2N[Se]NC2C(C(h)C(h)1)
 #SeSe C([Se]1)C(h)C2C1C(h)C([Se]2)
-TSe C(S1)C(h)C2C1C(h)C([Se]2)
+#TSe C(S1)C(h)C2C1C(h)C([Se]2)
 #Se-BSe-Se C([Se]1)C(h)C(h)C1-C1C2N[Se]NC2C(C(h)C(h)1)-C([Se]1)C(h)C(h)C1
 #Se-BT-Se C([Se]1)C(h)C(h)C1-C1C2NSNC2C(C(h)C(h)1)-C([Se]1)C(h)C(h)C1
 #DPPSe  C([Se]1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C([Se]1)C(h)C(h)C1
@@ -21,3 +21,4 @@ TSe C(S1)C(h)C2C1C(h)C([Se]2)
 #DPP  C(S1)C(h)C(h)C1-C1N(h)C(=O)C2C1C(=O)N(h)C2-C(S1)C(h)C(h)C1
 #Carbazole C(C(h)C1N2(h))C(h)C(h)C1C1C(h)C(h)C(C(h)C12)
 
+IsoIndigo C(C(h)C1(h))C(h)C(C12)N(h)C(=O)C2-C(C12)C(=O)N(h)C1C(h)C(C(h)C(h)2)

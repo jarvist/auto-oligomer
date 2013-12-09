@@ -47,9 +47,9 @@ pbsexec g03 ${name%.*}_uff.com
 #BASH filth to add AM1 & b3lyp geom opt at riders
 cat - ${name%.*}_uffcoords.axyz > ${name%.*}_am1.com <<EOF
 %nproc=${CPUS}
-#opt am1
+#opt pm6 
 
-Am1 auto job
+Pm6 auto job
 
 0 1
 EOF
